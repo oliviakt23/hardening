@@ -1,7 +1,7 @@
 #!/bin/bash
 #Description: Script to perform tasks on the CENTOS7-HARDENING-CIS.TXT
 # Author: Olivia Nkeih 
-# Date: August 31st 2020
+# Date: 09/03/20
 
 
 
